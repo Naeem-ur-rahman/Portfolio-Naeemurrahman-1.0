@@ -189,6 +189,7 @@ span {
 
 .about-content p {
     font-size: 1.6rem;
+    text-align: justify;
     margin: 2rem 0 3rem;
 }
 
