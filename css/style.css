@@ -220,6 +220,14 @@ span {
     transform: scale(1.02);
 }
 
+.services-box {
+    min-height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 .services-box i {
     font-size: 7rem;
     color: var(--main-color);
